@@ -2,4 +2,4 @@
 	List of Codes 
 </h2>
 
-The `code` directory contains the python codes for .
+The `code` directory contains the python code for prime numbers.
