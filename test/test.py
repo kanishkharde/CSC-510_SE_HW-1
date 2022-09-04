@@ -9,10 +9,10 @@ class TestReturnValues(unittest.TestCase):
         """
         Test for a known return value
         """
-        self.assertEqual(prime_check(5), 120)
+        self.assertEqual(prime_check(5), "5 is a prime number")
 
     def test_convert(self):
         """
         Test for a known return value
         """
-        self.assertEqual(convert(32.5), 34)
+        self.assertEqual(convert(32.5), 90.5)
