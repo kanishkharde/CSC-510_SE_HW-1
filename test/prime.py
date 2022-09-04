@@ -17,4 +17,4 @@ def prime_check(num):
 if __name__ == '__main__':
     arg = sys.argv
     n = int(arg[1])
-    prime(n)
+    prime_check(n)
