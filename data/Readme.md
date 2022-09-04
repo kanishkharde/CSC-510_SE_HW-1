@@ -1,4 +1,4 @@
-<h2 align="center" style="color:red;">
+<h2 align="center" style="font-color:blue;">
 	Data Directory
 </h2>
 
