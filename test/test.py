@@ -15,4 +15,4 @@ class TestReturnValues(unittest.TestCase):
         """
         Test for a known return value
         """
-        self.assertEqual(convert(9), 34.5)
+        self.assertEqual(convert(32.5), 34)
