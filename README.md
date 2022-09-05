@@ -1,5 +1,5 @@
 # CSC-510_SE_HW-1
-Write a Good Repo \n
+Write a Good Repo <br /> 
 [![Python application](https://github.com/kanishkharde/CSC-510_SE_HW-1/actions/workflows/python-app.yml/badge.svg)](https://github.com/kanishkharde/CSC-510_SE_HW-1/actions/workflows/python-app.yml)
 [![License](https://img.shields.io/github/license/kanishkharde/CSC-510_SE_HW-1?style=plastic)](https://github.com/kanishkharde/CSC-510_SE_HW-1/blob/main/LICENSE)
 ![Repo size](https://img.shields.io/github/repo-size/kanishkharde/CSC-510_SE_HW-1?style=plastic)
